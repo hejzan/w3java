@@ -6,3 +6,5 @@ public class Main { // filename must be the same name
 
 // something changed
 // branch changed
+
+// MERGE CONFLICT
